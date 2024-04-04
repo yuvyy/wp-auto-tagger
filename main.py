@@ -10,7 +10,6 @@ for i in range(5,0,-1):
     
 
 pyautogui.hotkey('shift', '2')
-# pyautogui.press('down')
 pyautogui.press('enter')
 time.sleep(0.3)
 
